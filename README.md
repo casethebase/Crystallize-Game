@@ -28,3 +28,17 @@ The player will have to guess the answer, just like in Word Guess. This time, th
     The random number shown at the start of the game should be between 19 - 120.
 
     Each crystal should have a random hidden value between 1 - 12.
+
+
+
+
+
+# Submission Notes
+
+    The vast majority of the work I submitted is javascript. You'll notice the reset.css is not even filled in and there are no stylings to go along with this.
+
+    I wanted to focus my efforts on understanding javscript and making everything work correctly first off - then worry about CSS afterwards. 
+
+    By the time I had finished with the JS, it was already well into the night so I decided to call it there. 
+
+    -Casey
